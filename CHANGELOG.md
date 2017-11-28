@@ -4,6 +4,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [v1.4.6] - 2017-11-28
+- Relax json library requirement
+
 ## [v1.4.5] - 2017-03-07
 
 - Added support for globally disabling deprecated filtering methods via the
